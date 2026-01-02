@@ -4,7 +4,7 @@ I build fast AI MVPs and automations.
 
 Recently shipped:
 - **Earworm AI** – identifies songs from humming or short lyrics
-- Added noise cancellation + Efficient song recognition
+- Added noise cancellation + improved accuracy for noisy inputs
 - Built and shipped as a working prototype, not a demo
 
 I enjoy validating ideas quickly and shipping usable products.
